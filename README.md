@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I,m Ilya from Moscow, Russia 🏙️
-24 y.o.
+25 y.o.
 - ⚒️ I’m currently working on Sinful Gods game using Godot engine
 - 👻 I’m also working on co-op horror game using Godot
 - 📱 Flutter Developer
